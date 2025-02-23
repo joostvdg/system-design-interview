@@ -1,0 +1,4 @@
+net/joostvdg/systemdesign/uuid/TSID.class
+net/joostvdg/systemdesign/uuid/SnowflakeId.class
+net/joostvdg/systemdesign/uuid/BitManipulator.class
+net/joostvdg/systemdesign/uuid/SnowflakeGenerator.class
